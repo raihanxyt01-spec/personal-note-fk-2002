@@ -1,0 +1,6 @@
+{
+  "name": "Personal Note",
+  "description": "A personal note taking app with rich text, images, vocabulary, questions, and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
